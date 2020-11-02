@@ -25,7 +25,7 @@ rsui3@jhu.edu; ssrcka@126.com;  XuJ@kennedykrieger.org
 
 ### Affiliations:
 
-1.Russell H. Morgan Department of Radiology and Radiological Science,Baltimore, MD, USA
+1. Russell H. Morgan Department of Radiology and Radiological Science,Baltimore, MD, USA
 
 2. The Johns Hopkins University School of Medicine, Baltimore, MD, USA
 
