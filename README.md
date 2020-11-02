@@ -1,1 +1,3 @@
-# CESTMRI_202010
+# MARLAB CODE FOR CESTMRI
+
+Updated on Nov.2nd 2020
